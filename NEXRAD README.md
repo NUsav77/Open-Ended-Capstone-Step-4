@@ -1,2 +1,0 @@
-# NEXRAD Exploratory Data Analysis
-NEXRAD datasets are organized in nested zipped folders by location, date, and time. The data contained within the zipped folders is for visual analysis purposes only. No human-readable data is contained in the datasets.
