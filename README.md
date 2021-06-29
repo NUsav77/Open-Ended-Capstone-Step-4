@@ -15,10 +15,12 @@ This Jupyter notebook consists of exploratory data analysis of the NEXRAD datase
     - run `pip install numpy`
     
 ## TDS EDA
-This Jupyter notebook consists of exploratory data analysis of the Thredds Data Server (TDS). Thredds Data Server provides enrichment metadata to compliment NEXRAD data. This allows different views and angles of NEXRAD data.
+This Jupyter notebook consists of exploratory data analysis of the Thredds Data Server (TDS). Thredds Data Server provides enrichment metadata to compliment NEXRAD data. This allows different views and angles of NEXRAD data, including animated storm plotting.
 #### Installation
     For the TDS EDA, in terminal run the following commands:
     - run `pip install siphon`
     - run `pip install numpy`
     - run `pip install matplotlib`
     - run `!conda install --yes cartopy`
+
+## Twitter EDA
