@@ -3,7 +3,7 @@ This repository is the fourth step in the capstone which contains exploratory da
 
 EDA steps are conducted using Jupyter Notebooks.
 
-### NEXRAD EDA
+## NEXRAD EDA
 This Jupyter notebook consists of exploratory data analysis of the NEXRAD dataset. The EDA takes several different approaches to accessing the NEXRAD data using several different Python modules, libraries, and packages.
 #### Installation
     For the NEXRAD EDA, in terminal run the following commands:
@@ -14,7 +14,7 @@ This Jupyter notebook consists of exploratory data analysis of the NEXRAD datase
     - run `pip install boto3`
     - run `pip install numpy`
     
-### TDS EDA
+## TDS EDA
 This Jupyter notebook consists of exploratory data analysis of the Thredds Data Server (TDS). Thredds Data Server provides enrichment metadata to compliment NEXRAD data. This allows different views and angles of NEXRAD data.
 #### Installation
     For the TDS EDA, in terminal run the following commands:
