@@ -26,8 +26,8 @@ This Jupyter notebook consists of exploratory data analysis of the Thredds Data 
 ## Twitter EDA
 This Jupyter notebook consists of exploratory data analysis of Twitter data by utilizing tweepy, pandas, and matplotlib. This data will be used to enhance the NEXRAD data set with Twitter sentiments of affected people.
 #### Installation
-    For the Twitter EDA, in terminal run the following commands:
-    - run `pip install tweepy`
-    - run `pip install pandas`
-    - run `pip install spacy`
-    - run `pip install matplotlib`
+For the Twitter EDA, in terminal run the following commands:
+- run `pip install tweepy`
+- run `pip install pandas`
+- run `pip install spacy`
+- run `pip install matplotlib`
