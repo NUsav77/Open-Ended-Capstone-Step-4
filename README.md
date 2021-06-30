@@ -1,5 +1,5 @@
 # Open Ended Capstone Step 4
-This repository is the fourth step in the capstone which contains exploratory data analysis (EDA) on capstone datasets. Datasets include NEXRAD Level 2 data, TDS metadata for NEXRAD enrichment, and Twitter data.
+This repository is the fourth step in the capstone which contains exploratory data analysis (EDA) on capstone datasets. Datasets include NEXRAD Level 2 data, TDS metadata, and Twitter data for NEXRAD enrichment.
 
 EDA steps are conducted using Jupyter Notebooks.
 
